@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Roboto_Slab;
+  src: url(RobotoSlab-Regular.ttf);
+}
+
+div {
+  font-family: myFirstFont;
+}
